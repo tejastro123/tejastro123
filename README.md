@@ -7,6 +7,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Data Science & ML projects**
+- I'm currently working on QUCPL project
 - 🌱 I’m currently learning **Advanced ML, DSA, and C++**
 - 💬 Ask me about **Space, Rockets, AI, and Programming!**
 - 📫 Reach me at **tejas.mellimpudi@gmail.com**
