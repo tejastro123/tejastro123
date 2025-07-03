@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Tejas Mellimpudi</h1>
-<h3 align="center">🚀 Space & Rocketry Enthusiast | Software Developer | Python, C++, C | DSA, Web Dev, Data Science & ML/AI | Exploring the Cosmos Through Code 🌌</h3>
+<h3 align="center">🚀 Space & Rocketry Enthusiast | Software Developer | Python, C++, C | DSA, Web Dev, Data Science & ML/AI |Quantum Computing| Exploring the Cosmos Through Code 🌌</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tejastro123&label=Profile%20views&color=0e75b6&style=flat" alt="tejastro123" /> </p>
 
