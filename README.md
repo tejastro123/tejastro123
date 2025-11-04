@@ -52,9 +52,7 @@
 ---
 
 ### 🚀 Fun Projects
-- 🌌 **[Astrophysics Simulation](https://github.com/tejastro123/astro-sim)** – A physics-based space simulation.
-- 🤖 **[AI Chatbot](https://github.com/tejastro123/ai-chatbot)** – A conversational AI assistant.
-- 📊 **[Data Science Portfolio](https://github.com/tejastro123/ds-projects)** – Collection of ML & AI projects.
+
 
 ---
 
